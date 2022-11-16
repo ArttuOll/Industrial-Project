@@ -4,5 +4,5 @@ from . import views
 # TODO remove this example url conf
 #URL conf
 urlpatterns = [
-    path('hello/', views.say_hello)
+    path('tiff/', views.tiff)
 ]
