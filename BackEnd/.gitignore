@@ -7,3 +7,4 @@
 RecordingInfo.txt
 __pycache__/*
 1_raw_images/*
+*.env
